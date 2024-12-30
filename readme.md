@@ -10,3 +10,6 @@ Implementado a partir del firmware-v1 de Eric Pernia (https://github.com/ciaa/fi
  * Edu-CIAA : http://www.proyecto-ciaa.com.ar<br>
 
 [![IMG-20240127-112600226-HDR.jpg](https://i.postimg.cc/0yZnNwY2/IMG-20240127-112600226-HDR.jpg)](https://postimg.cc/WdFgWtYQ)
+
+### Se creo el diseño del pcb en proteus: 
+![image](https://github.com/user-attachments/assets/79f6fb0b-2612-4e49-bb39-498aabbd45c1)
